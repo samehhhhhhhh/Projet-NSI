@@ -62,7 +62,7 @@ updatePixels()
 gray_img = gray_filter(img)
 
 image(filtre_noir_et_blanc(gray_img),0,0)
-image(img,0,0,62,84)
+image(img,0,0,62,84) 
             
             
             
