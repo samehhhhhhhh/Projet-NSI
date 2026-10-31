@@ -49,7 +49,7 @@ def create_filter(r, g, b):
             
             img2.pixels[index] = color(rr, gg, bb)
     
-create_filter(256, 255, 256)
+create_filter(123, 256, 255)
 
 updatePixels()
 image(img2, 0, 0)
