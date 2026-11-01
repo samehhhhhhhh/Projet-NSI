@@ -1,7 +1,7 @@
 x = 1000
 y = 1000
 size(1000,1000)
-img=loadImage("data/yumeko.jpg")
+img=loadImage("data/image.jpg")
 
 h = img.height
 w = img.width
