@@ -7,7 +7,7 @@
 
 Ce projet a été réalisé par Sami El Maqrini et Adam Laroui.
 
-Il reprend tout les exercices demandées en processing, et en python. 
+Il reprend tous les exercices demandées en processing, et en python. 
 
 ## Note
 
@@ -26,6 +26,11 @@ Ensuite le dossier "src" Qui contient les versions python de tout les sketches.
 
 Enfin le dossier "assets" Qui contient les images utilisées par les sketches et
 scripts python. 
+
+## Dépendences
+
+Les scripts python utilisent la librairies py5, qui permet d'utiliser processing sur python3, 
+et tkinter, afin de faire le launcher.
 
 ## Guide d'usage 
 
@@ -67,6 +72,7 @@ python -m venv .venv
 ```bash
 pip install --upgrade pip # Mettre à jour pip
 pip install py5
+pip install tk
 ```
 
 4. **Lancer un script :**
