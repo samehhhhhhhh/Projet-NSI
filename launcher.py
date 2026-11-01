@@ -8,7 +8,7 @@ exercices = [
     ("4.py", "Exercice 4 : manipulation des pixels"),
     ("6.py", "Exercice 6 : filtrage par seuil"),
     ("8.py", "Exercice 8 : convolution (netteté)"),
-    ("10.py", "Exercice 10 : un plus (flous)"),
+    ("10.py", "Exercice 10 : un plus"),
     ("12.py", "Exercice 12 : transformations géométriques"),
     ("14.py", "Exercice 14 : image 2D en 3D"),
 ]
