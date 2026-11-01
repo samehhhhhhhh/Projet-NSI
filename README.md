@@ -75,9 +75,7 @@ pip install py5
 pip install tk
 ```
 
-4. **Lancer un script :**
+4. **Lancer le launcher :**
 ```bash
-# Aller dans le dossier des scripts
-cd src
-python 2.py
+python launcher.py
 ```
