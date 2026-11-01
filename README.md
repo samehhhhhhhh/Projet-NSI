@@ -9,6 +9,12 @@ Ce projet a été réalisé par Sami El Maqrini et Adam Laroui.
 
 Il reprend tout les exercices demandées en processing, et en python. 
 
+## Note
+
+Certains exercices, ont été réalisé par commentaires sur les fichiers sketches et/ou python. 
+
+Par exemple, l'exercice "Une image 2D mappée en 3D" est répondu par un commentaire au début du fichier 14.py
+
 ## Structure
 
 Notre projet est structuré en 3 dossiers principaux, tout d'abord 
@@ -35,7 +41,7 @@ Il vous faudra les ouvrir sur l'IDE processing.
 
 **Pour les scripts python :**
 
-Il vous faut avoir python 3 d'installé sur votre machine. 
+Il vous faut avoir python version 3 et pip d'installés sur votre machine. 
  
 1. **créer un virtual environement pour le projet :**
 ```bash
